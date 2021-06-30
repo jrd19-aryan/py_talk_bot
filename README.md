@@ -1,2 +1,3 @@
-# py_talk_bot
-A talk Bot that converts your voice queries to search and plays you the google search results.
+# pythonProject
+jarvisAI
+A personal voice command activated chatbot which replies to all your queries without the use of AI.
